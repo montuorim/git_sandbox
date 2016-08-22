@@ -1,2 +1,4 @@
 # git_sandbox
-first line modified
+Just a personal sandbox for git.
+nothing special here.
+:)
